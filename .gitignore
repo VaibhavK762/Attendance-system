@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Model files (can be large)
+*.h5
+
+# Dataset (do NOT upload datasets)
+cnn_model/dataset/
+
+# OS
+.DS_Store
